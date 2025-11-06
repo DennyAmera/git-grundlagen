@@ -1,0 +1,3 @@
+1. Datei "befehle.txt" wurde dem Repository hinzugefügt.
+2. Datei "aenderungen.txt" wurde dem Repository hinzugefügt.
+3. "README.md" wurde aktualisiert. 
