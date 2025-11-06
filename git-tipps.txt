@@ -1,0 +1,5 @@
+Um eine Datei die bereits committed wurde zurückzunehmen, benutzt man "git reset --soft HEAD~1".
+Damit wird der zuletzt aufgenommene commit zurückgenommen. (nach einem git push)
+
+Möchte man einen commit vor einem "git push" ändern, nutzt man "git commit --amend" um den alten commit durch
+einen neuen zu ersetzen.
