@@ -1,0 +1,9 @@
+git add = eine Datei für ein commit anmelden.
+
+git commit -m "Commit text" = Bestätigt die mit 'git add' angemeldeten Dateien und fügt einen Kommentar hinzu.
+
+git push = Alle erstellten commit's werden in das Hauptverzeichnis geladen.
+
+git branch "branch" = Einen neuen Branch erstellen.
+
+git checkout "branch" = In den angegebenen Branch wechseln.  
